@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Скрипт высчитывает корни уравнения по коэффициентам
 
 # Project Goals
 
